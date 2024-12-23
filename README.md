@@ -29,6 +29,10 @@ Gambar di bawah ini merupakan tampilan untuk pengolahan data:
 <img src="https://github.com/user-attachments/assets/37b1c8fd-a3bc-43d1-a79d-627e888e7e53"
  alt="Input Data Siswa" width="300">
 
+Tampilan edit data siswa
+ <img src="https://github.com/user-attachments/assets/05e0b74b-6312-48aa-86bc-6ed3664a5638"
+alt="Input Data Siswa" width="300">
+
 
 ## Bagian 3: Database Management
 Gambar di bawah ini merupakan database yang saya gunakan. Saya membuat database untuk menyimpan data yang dimasukkan oleh admin. Beberapa sintaks yang saya gunakan meliputi *CREATE, **READ, **UPDATE, **DELETE, dan **SELECT*:
